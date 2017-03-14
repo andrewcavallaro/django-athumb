@@ -10,7 +10,6 @@ setup(
               'athumb.management.commands', 'athumb.templatetags',
               'athumb.upload_handlers'],
     description='A simple, S3-backed thumbnailer field.',
-    long_description=long_description,
     author='Gregory Taylor',
     author_email='gtaylor@gc-taylor.com',
     license='BSD License',
